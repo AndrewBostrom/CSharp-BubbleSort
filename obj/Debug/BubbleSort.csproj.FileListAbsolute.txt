@@ -1,0 +1,6 @@
+c:\users\andrew\documents\visual studio 2015\Projects\BubbleSort\bin\Debug\BubbleSort.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\BubbleSort\bin\Debug\BubbleSort.exe
+c:\users\andrew\documents\visual studio 2015\Projects\BubbleSort\bin\Debug\BubbleSort.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\BubbleSort\obj\Debug\BubbleSort.exe
+c:\users\andrew\documents\visual studio 2015\Projects\BubbleSort\obj\Debug\BubbleSort.pdb
